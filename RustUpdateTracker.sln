@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustUpdateTracker", "RustUpdateTracker\RustUpdateTracker.csproj", "{82C088CF-1D98-4713-95E0-A0DE757B787B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C088CF-1D98-4713-95E0-A0DE757B787B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C088CF-1D98-4713-95E0-A0DE757B787B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C088CF-1D98-4713-95E0-A0DE757B787B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C088CF-1D98-4713-95E0-A0DE757B787B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A38431-345D-4535-9018-4359B6C46695}
+	EndGlobalSection
+EndGlobal
